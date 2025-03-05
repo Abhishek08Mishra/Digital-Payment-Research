@@ -44,9 +44,9 @@ Welcome to the repository for my article **"Consumer Perception towards Digital 
 ---
 
 ## 📥 How to Access
-1. **Download**: Grab the PDF here: [Consumer_Perception_Digital_Payment_Kathmandu_Valley.pdf](https://github.com/Abhishek08Mishra/Digital-Payment-Research/blob/main/Consumer_Perception_Digital_Payment_Kathmandu_Valley.pdf)    
+1. **Download**: Grab the PDF here: [Consumer_Perception_Digital_Payment_Kathmandu_Valley.pdf](https://github.com/Abhishek08Mishra/Digital-Payment-Research/blob/master/Consumer_Perception_Digital_Payment_Kathmandu_Valley.pdf)    
 2. **CV**: Featured in my CV under "Projects" as a portfolio piece.
-3. 
+
 ---
 
 ## 🛠️ Tools Used
@@ -68,7 +68,8 @@ It’s linked in my CV to showcase my research capabilities as an aspiring Data 
 
 ## 📬 Contact Me
 - **GitHub**: [Abhishek08Mishra](https://github.com/Abhishek08Mishra)  
-- **LinkedIn**: [abhishek-mishra08](https://www.linkedin.com/in/abhishek-mishra08)  
+- **LinkedIn**: [abhishek-mishra08](https://www.linkedin.com/in/abhishek-mishra08)
+- **Twitter(X)** :[@Abhi__57](https://x.com/Abhi__57)  
 - **Email**: abishekmishra195@gmail.com  
 
 💬 Questions or feedback? Feel free to reach out!
